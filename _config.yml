@@ -1,0 +1,7 @@
+# Jupyter Book 配置文件
+title: PyTorch 架构宝典
+author: Katherine
+logo: ""
+execute:
+  execute_notebooks: force
+  timeout: 60
